@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="388dp">
+
+        <LinearLayout
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/peopleTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Count:" />
+
+            <TextView
+                android:text="countText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/countText"
+                android:layout_weight="1" />
+
+
+        </LinearLayout>
+
+
+
+        <ListView
+            android:id="@+id/peopleList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scrollbars="vertical" >
+
+        </ListView>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/add_person"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_person" />
+
+    <Button
+        android:text="@string/clear_people"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/clear_people" />
+
+</LinearLayout>

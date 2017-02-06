@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">jyurick-SizeBook</string>
+    <string name="add_person">Add Person</string>
+    <string name="save_person">Save</string>
+    <string name="delete_person">Delete</string>
+    <string name="clear_people">Clear</string>
+</resources>
