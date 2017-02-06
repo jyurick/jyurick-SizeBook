@@ -2,193 +2,175 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c7a0fa8f15f3174c364075f618b89948948de262/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c7a0fa8f15f3174c364075f618b89948948de262.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_b56704afbe642004a15753317b9e0ef990001681/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_b56704afbe642004a15753317b9e0ef990001681.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_6408b1ba61e15b193343826236976b1422eae748/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/gson-2.8.0_6408b1ba61e15b193343826236976b1422eae748.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e6a926034d810e3df987e43cf217cb3165c8025e">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff2559a934bb3c40930bef4780515902ca1f04f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_ad51e8121a7afbe89a0341fa25f4c64959c8443c/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_ad51e8121a7afbe89a0341fa25f4c64959c8443c.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c5969d3b51c23f9c9605c4893954d8ebf6e480f0/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c5969d3b51c23f9c9605c4893954d8ebf6e480f0.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cbdf1faa33862f2f4099797fddce029bb335e8b0/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_cbdf1faa33862f2f4099797fddce029bb335e8b0.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_fee41bf307ec0fb830f19269396d0e80361f57f9/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_fee41bf307ec0fb830f19269396d0e80361f57f9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb46cb65415a3dbc4f0a43bb72d4191e9419d5cf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8ec50c1dba18739351658e836ad5406ee98170ec/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8ec50c1dba18739351658e836ad5406ee98170ec.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5b4304166b0d42f2f20a524745f95baaa490bb0f/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_5b4304166b0d42f2f20a524745f95baaa490bb0f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_50f7b039e2424ebd95d6e6850d0e38626318b0ec/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb46cb65415a3dbc4f0a43bb72d4191e9419d5cf.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_773b8d68a9cf8ba850d10c046eb8aa821b985db7/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_773b8d68a9cf8ba850d10c046eb8aa821b985db7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_fdd400ca49953d40600bb218ec4bacfa852f77e8/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_50f7b039e2424ebd95d6e6850d0e38626318b0ec.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5fe133087d915b940ce71d8b41d53553844003ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_79d60156599cf5f52f790fc3bda55905ce22ad29/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_79d60156599cf5f52f790fc3bda55905ce22ad29.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_fdd400ca49953d40600bb218ec4bacfa852f77e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_57a8ec7e02818e035b32a3c516ed741acc019c2b/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_57a8ec7e02818e035b32a3c516ed741acc019c2b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f78f6891bbfeaa7970983ba309040215ca22986b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f2386c50b8afeb40910f20f4a80c3caa4e4d908d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9b66a0d045b84b01fc468bc24639fad6accf8c5c/classes.dex" />
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9b66a0d045b84b01fc468bc24639fad6accf8c5c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="868754587db277eece116a7b0b30ed7eab5c37b1">
-        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0202620d3ae71762033ed1bb74f5c087fe39bb5f/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f2386c50b8afeb40910f20f4a80c3caa4e4d908d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5fe133087d915b940ce71d8b41d53553844003ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/annaholowaychuk/cmput301/jyurick-SizeBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f78f6891bbfeaa7970983ba309040215ca22986b.jar" />
     </item>
 
 </items>
